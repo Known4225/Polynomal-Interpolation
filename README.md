@@ -1,6 +1,8 @@
 # Polynomal-Interpolation
 It's like lagrange interpolation, I think
 
+Install: Download Polynomial_Interpolation.html and run it in your browser of choice.
+
 What does this project do?
 A Gregory-Newton polynomial is a special kind of polynomic function that goes through a given set of points. It's constructed in a way that uses those points as inputs and makes a polynomial of degree n where n is the number of points that is given.
 
